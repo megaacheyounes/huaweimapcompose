@@ -7,5 +7,4 @@ this is a simple app demonstrating how you can render a Huawei Map in Jetpack Co
 - change map's camera position (randomly)
 
 ### demo
-[https://github.com/megaacheyounes/huaweimapcompose/screenshot/demo.gif]()
 ![demo](https://github.com/megaacheyounes/huaweimapcompose/blob/master/screenshot/demo.gif "demo")
