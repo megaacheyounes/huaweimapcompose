@@ -1,0 +1,21 @@
+#Huawei HMS rules
+#noinspection ShrinkerUnresolvedReference
+-ignorewarnings 
+-keepattributes EnclosingMethod 
+-keepattributes *Annotation* 
+-keepattributes Exceptions 
+-keepattributes InnerClasses 
+-keepattributes Signature 
+-keepattributes SourceFile,LineNumberTable 
+-keep class com.hianalytics.android.**{*;}
+-keep class com.huawei.updatesdk.**{*;}
+-keep class com.huawei.hms.**{*;}
+-keep interface com.huawei.hms.**{*;} 
+-keep class com.huawei.**{*;}
+-keep class org.xms.**{*;}
+-keep class com.huawei.agconnect.** {*;} 
+-keep interface com.huawei.agconnect.**{*;}
+-keep class com.huawei.hmf.**{*;}
+ 
+-keep class org.xms.**{*;}
+-keep interface org.xms.**{*;}
